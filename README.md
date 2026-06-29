@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Sai-Rohith202/Sai-Rohith202/main/banner.png">
+<p align="center">
+<img src="ChatGPT Image Jun 29, 2026, 08_02_21 PM.png" width="100%">
+</p>
 ## Hi there 👋
 
 <!--
