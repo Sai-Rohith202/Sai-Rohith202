@@ -1,6 +1,4 @@
-<p align="center">
-<img src="images/banner.png">
-</p>
+<img src="https://raw.githubusercontent.com/Sai-Rohith202/Sai-Rohith202/main/banner.png">
 ## Hi there 👋
 
 <!--
