@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# Hi,I'm Sai Rohith Chikati
+# Hi , I'm Sai Rohith Chikati
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Undergraduate;Machine+Learning+Enthusiast;Python+Developer;Aspiring+AI+Engineer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
