@@ -142,6 +142,14 @@ chikatirohith621@gmail.com
 
 ---
 
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Sai-Rohith202/Sai-Rohith202/output/github-contribution-grid-snake.svg">
+
+</p>
+
 <div align="center">
 
 ### 💬 Quote
